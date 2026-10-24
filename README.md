@@ -1,29 +1,17 @@
 2D Platformer
 
-A simple 2D platformer made in Godot. This was mainly a small project to practice basic player movement, jumping, gravity, and 2D physics.
+I made my own "terraria-slime normal day chilling somulator"
 
-🎮 Controls
+Controls
 A / Left Arrow — Move left
 D / Right Arrow — Move right
 Space — Jump
-🛠️ Made With
-Godot Engine
-GDScript
-📌 About
-
+I made my game in godot
 The game is pretty simple. You control a character that can move around, jump, and interact with the environment using Godot's 2D physics and collision system.
 
 I made this project to get more familiar with how movement and physics work in Godot.
 
-🚀 Running the Game
-Download or clone the repository.
-Open the project in Godot.
-Press Play.
-Have fun :)
-📖 What I Learned
-
-While making this project, I practiced:
-
+While making this project, I practiced: 
 2D player movement
 Jumping and gravity
 Collision detection
