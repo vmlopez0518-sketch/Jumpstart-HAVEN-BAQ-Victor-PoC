@@ -15,7 +15,7 @@ While making this project, I practiced:
 Jumping and gravity
 Collision detection
 Basic GDScript
-Working with Godot scenes and nodes
+Working with Godot scenes and nodes.
 
 <img width="1048" height="411" alt="image" src="https://github.com/user-attachments/assets/2f7e34a7-2771-4f10-96b6-9f6009536500" />
 
