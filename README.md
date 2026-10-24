@@ -17,4 +17,5 @@ Collision detection
 Basic GDScript
 Working with Godot scenes and nodes
 
-<img width="1132" height="627" alt="image" src="https://github.com/user-attachments/assets/6c02d028-f672-4aab-b7ed-6757823f36d6" />
+<img width="1048" height="411" alt="image" src="https://github.com/user-attachments/assets/2f7e34a7-2771-4f10-96b6-9f6009536500" />
+
