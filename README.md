@@ -7,8 +7,7 @@ A / Left Arrow — Move left
 D / Right Arrow — Move right
 Space — Jump
 I made my game in godot
-The game is pretty simple. You control a character that can move around, jump, and interact with the environment using Godot's 2D physics and collision system.
-
+The game is pretty simple. You control a character that can move around, jump, and NOT going to the basemente to get a surpirse
 I made this project to get more familiar with how movement and physics work in Godot.
 
 While making this project, I practiced: 
